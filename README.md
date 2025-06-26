@@ -3,11 +3,7 @@
   <img src="Forest Night.png" alt="Banner" width="100%" />
 </p>
 
-## 🧰 Languages & Tools I Use
-
-
-
-## 🧰 Languages & Tools I Use
+## 🧰 Programming Languages & Tools I Use
 
 <p align="center">
   <!-- HTML -->
@@ -35,10 +31,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="40" alt="Inkscape" />
 
   <!-- Krita -->
-  <img src="https://raw.githubusercontent.com/mayeaux/nodemailer-direct-transport/gh-pages/images/krita.svg" width="40" alt="Krita" />
+  <img src="Calligrakrita-base.svg.png" width="40" alt="Krita" />
 
   <!-- Aseprite -->
-  <img src="https://raw.githubusercontent.com/Taiga74164/aseprite-icon/main/aseprite-icon.svg" width="40" alt="Aseprite" />
+  <img src="aseprite.svg" width="40" alt="Aseprite" />
 </p>
 
 
