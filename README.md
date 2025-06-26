@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <p align="center">
   <img src="Forest Night.png" alt="Banner" width="100%" />
 </p>
