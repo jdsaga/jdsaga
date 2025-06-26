@@ -3,6 +3,12 @@
   <img src="Forest Night.png" alt="Banner" width="100%" />
 </p>
 
+## 🧰 Languages & Tools I Use
+
+
+
+## 🧰 Languages & Tools I Use
+
 <p align="center">
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
@@ -16,12 +22,27 @@
   <!-- GDScript / Godot -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" alt="Godot (GDScript)" />
 
-  <!-- XAMPP (using Apache icon since XAMPP has no public CDN logo) -->
+  <!-- XAMPP (Apache icon) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" alt="XAMPP (Apache)" />
 
   <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+
+  <!-- Blender -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" alt="Blender" />
+
+  <!-- Inkscape -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="40" alt="Inkscape" />
+
+  <!-- Krita -->
+  <img src="https://raw.githubusercontent.com/mayeaux/nodemailer-direct-transport/gh-pages/images/krita.svg" width="40" alt="Krita" />
+
+  <!-- Aseprite -->
+  <img src="https://raw.githubusercontent.com/Taiga74164/aseprite-icon/main/aseprite-icon.svg" width="40" alt="Aseprite" />
 </p>
+
+
+
 <!--
 **jdsaga/jdsaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
